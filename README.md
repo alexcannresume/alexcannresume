@@ -9,5 +9,5 @@ the username.
 Please let me know if you have any questions regarding looking at my code. 
 
 Alex Cann
-agcann17@gmail.com
-7036152647
+\nagcann17@gmail.com
+\n7036152647
